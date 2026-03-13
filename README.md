@@ -1,7 +1,7 @@
-### 👋 Hi there，我是 [你的名字]
+### 👋 Hi there
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=你好，我是[你的名字];高中学历+正在自学AI;目标是成为AI研发工程师;欢迎来我的GitHub&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+自学探索者;从零开始+大模型之路;每天进步一点点&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
